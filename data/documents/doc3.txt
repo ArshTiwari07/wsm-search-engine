@@ -1,0 +1,2 @@
+Machine learning uses algorithms to analyze data.
+Python is commonly used for machine learning.
